@@ -1,3 +1,5 @@
+
+
 .vertical-nav {
     width: 200px;
     background-color: #f1f1f1;
@@ -6,7 +8,16 @@
     top: 0;
     height: 100%;
     padding-top: 60px; 
-}
+      }
+           
+        body {
+            
+            background-image: url('qwer.JPEG');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
 
 .vertical-nav a {
     display: block;
